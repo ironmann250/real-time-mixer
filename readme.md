@@ -1,3 +1,5 @@
+#real-time-mixer
+suggest me a name :)
 - briefly, this makes a random playlist but considers how
 the songs will follow so it arranges them like a music
 mixer will do!
